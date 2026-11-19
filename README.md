@@ -14,3 +14,7 @@ Studente di **Ingegneria alla Sapienza Università di Roma**: laurea triennale i
 ## Strumenti
 
 `TypeScript` `JavaScript` `Python` `React` `React Native` `Node.js` `Express` `FastAPI` `Supabase` `PostgreSQL` `Docker` `GitHub Actions`
+
+## Contatti
+
+[LinkedIn](https://www.linkedin.com/in/danilo-cimmino/)
