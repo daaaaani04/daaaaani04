@@ -1,6 +1,6 @@
 # Ciao, sono Danilo
 
-Studente di **Ingegneria alla Sapienza Università di Roma**: laurea triennale in Ingegneria Informatica, ora magistrale in **Control Engineering**. Mi interessano controlli automatici, robotica e sistemi dinamici, e mi piace costruire software che qualcuno usa davvero. Faccio parte di **Sapienza Corse**, il team studentesco di Formula Student.
+Studente di **Ingegneria alla Sapienza Università di Roma**: laurea triennale in Ingegneria Informatica, ora magistrale in **Control Engineering**. Faccio parte di **Sapienza Corse**, il team studentesco di Formula Student.
 
 ## Progetti
 
